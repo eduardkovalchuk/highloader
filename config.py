@@ -1,0 +1,6 @@
+API = "/api/"
+REGISTER = "register"
+LOGIN = "login"
+UPLOAD = "upload"
+FILES = "files/"
+DOWNLOAD = "download/"
